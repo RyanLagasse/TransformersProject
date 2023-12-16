@@ -1,0 +1,469 @@
+text,label
+"Get a free gift!",spam
+"Congratulations! You've won a prize!",spam
+"Limited time offer - 50% off!",spam
+"Check out our new products.",not_spam
+"Last chance to save!",spam
+"New arrivals in stock.",not_spam
+"Special discount for loyal customers.",not_spam
+"Exclusive deal for today only.",not_spam
+"Claim your reward now!",spam
+"Shop now and get 20% off.",not_spam
+"Save big on your next purchase.",not_spam
+"New deals every day.",not_spam
+"Free shipping on orders over $50.",not_spam
+"New season has arrived.",not_spam
+"Buy now and save.",not_spam
+"Last chance to save 30%!",spam
+"Get a free gift with every purchase.",not_spam
+"Free gift with purchase.",not_spam
+"Get 20% off your first purchase.",not_spam
+"Buy one, get one free.",not_spam
+"Free shipping on orders over $100.",not_spam
+"Free shipping on all orders.",not_spam
+"Save 50% on all items.",spam
+"Claim your discount now!",spam
+"New collection out now.",not_spam
+"Save 20% on your first purchase.",not_spam
+"Save 30% on all items.",spam
+"Free gift with every purchase.",not_spam
+"Shop now and save 20%.",not_spam
+"Get a free gift with your purchase.",not_spam
+"Free shipping on orders over $75.",not_spam
+"Get 50% off your next purchase.",spam
+"Shop now and get 50% off.",spam
+"Save 20% on all items.",spam
+"Save 30% on your next purchase.",spam
+"Shop now and get 30% off.",spam
+"New collection in stock.",not_spam
+"Last chance to save 50%!",spam
+"Shop now and get 40% off.",spam
+"Save 40% on all items.",spam
+"New season is here.",not_spam
+"Save 50% on your next purchase.",spam
+"Save 40% on your next purchase.",spam
+"Shop now and save 30%.",spam
+"Save 30% on all items.",spam
+"Buy now and get 50% off.",spam
+"Save 40% on all orders.",spam
+"Buy now and get 40% off.",spam
+"Save 50% on all orders.",spam
+"New collection has arrived.",not_spam
+"Save 30% on all orders.",spam
+"Buy now and get 30% off.",spam
+"Shop now and save 40%.",spam
+"New season is coming.",not_spam
+"New arrivals in store.",not_spam
+"New arrivals out now.",not_spam
+"New collection out now.",not_spam
+"New collection in store.",not_spam
+"New collection has landed.",not_spam
+"Flash sale! Up to 60% off.",spam
+"Hurry, limited stock available!",spam
+"Explore our latest arrivals.",not_spam
+"Unlock exclusive deals with our loyalty program.",not_spam
+"Your opinion matters! Take our survey.",not_spam
+"Double your savings with our special offer.",spam
+"Check out the hottest trends this season.",not_spam
+"Free trial for our premium subscription.",not_spam
+"Claim your early access pass now!",spam
+"Introducing a new way to shop: Virtual try-on.",not_spam
+"VIP access: Be the first to know about upcoming sales.",not_spam
+"Win a dream vacation! Enter now.",spam
+"Upgrade to premium for unlimited benefits.",not_spam
+"Discover the secret to glowing skin.",not_spam
+"Refer a friend and get rewarded!",not_spam
+"Save on top brands with our clearance sale.",spam
+"Get fit with our exclusive workout plans.",not_spam
+"Unwrap happiness with our holiday specials.",spam
+"Join our community for insider perks.",not_spam
+"Revolutionize your skincare routine.",not_spam
+"Exclusive sneak peek of our summer collection.",not_spam
+"Unlock the mystery discount - spin the wheel!",spam
+"Transform your home with our home decor collection.",not_spam
+"Your wishlist, your way - customize your products.",not_spam
+"Get the scoop on the latest fashion trends.",not_spam
+"Win big in our monthly giveaway!",spam
+"Create a personalized gift for your loved ones.",not_spam
+"Elevate your style with our fashion essentials.",not_spam
+"Maximize your savings with our bundle deals.",spam
+"Upgrade your tech game with our latest gadgets.",not_spam
+"Join us for a virtual fashion show.",not_spam
+"Fall in love with our new fragrance collection.",not_spam
+"Enhance your gaming experience with our gaming gear.",not_spam
+"Unlock a surprise gift on your next purchase.",spam
+"Discover the art of mixology with our cocktail recipes.",not_spam
+"Get cozy with our winter essentials.",not_spam
+"Power up your morning with our coffee blends.",not_spam
+"Unveiling the secret menu - exclusive for members.",not_spam
+"Stay connected with our tech accessories.",not_spam
+"Embark on a culinary journey with our recipe box.",not_spam
+"Introducing our eco-friendly product line.",not_spam
+"Upgrade your workspace with our office essentials.",not_spam
+"Experience luxury with our premium collection.",not_spam
+"Your pet deserves the best - explore our pet care range.",not_spam
+"Indulge in guilt-free treats with our healthy snacks.",not_spam
+"Level up your photography skills with our masterclass.",not_spam
+"Elevate your home entertainment with our audio systems.",not_spam
+"Discover the magic of handmade crafts in our artisanal collection.",not_spam
+"Embrace self-care with our wellness products.",not_spam
+"Transform your space with our home organization solutions.",not_spam
+"Stay active with our fitness challenge.",not_spam
+"Whip up delicious meals with our chef-inspired recipes.",not_spam
+"Upgrade your outdoor adventures with our camping gear.",not_spam
+"Experience the thrill of virtual reality with our VR headset.",not_spam
+"Join the movement - sustainable living starts here.",not_spam
+"Dive into a world of books with our curated reading list.",not_spam
+"Add a touch of elegance with our jewelry collection.",not_spam
+"Experience the convenience of contactless shopping.",not_spam
+"Your comfort, our priority - explore our bedding collection.",not_spam
+"Discover the power of mindfulness with our meditation guide.",not_spam
+"Create memories with our customizable photo albums.",not_spam
+"Stay organized with our stylish planners and notebooks.",not_spam
+"Elevate your tea time with our premium tea blends.",not_spam
+"Embark on a fitness journey with our workout challenge.",not_spam
+"Level up your skincare routine with our beauty tips.",not_spam
+"Unleash your creativity with our DIY craft kits.",not_spam
+"Upgrade your gaming setup with our gaming accessories.",not_spam
+"Join our loyalty program for exclusive rewards.",not_spam
+"Unwind and relax with our spa day essentials.",not_spam
+"Transform your living space with our home decor ideas.",not_spam
+"Stay productive with our work-from-home essentials.",not_spam
+"Elevate your dining experience with our gourmet recipes.",not_spam
+"Discover the magic of virtual events with our online workshops.",not_spam
+"Unlock the secrets of successful gardening with our gardening guide.",not_spam
+"Level up your culinary skills with our cooking masterclass.",not_spam
+"Stay cozy and stylish with our winter fashion collection.",not_spam
+"Experience the joy of giving with our gift guide.",not_spam
+"Transform your backyard into a paradise with our outdoor furniture.",not_spam
+"Join our community of book lovers for literary discussions.",not_spam
+"Elevate your cocktail game with our mixology masterclass.",not_spam
+"Stay connected with loved ones through our virtual meetups.",not_spam
+"Experience the thrill of adventure with our travel essentials.",not_spam
+"Unleash your inner artist with our art supplies.",not_spam
+"Level up your photography game with our photography challenge.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Embark on a wellness journey with our mindfulness exercises.",not_spam
+"Upgrade your home office with our ergonomic office furniture.",not_spam
+"Discover the flavors of the world with our international cuisine recipes.",not_spam
+"Unveil the mystery box - limited quantities available!",spam
+"Join our VIP club for exclusive perks and discounts.",not_spam
+"Revamp your wardrobe with our trendy fashion picks.",not_spam
+"Indulge in luxury with our premium skincare collection.",not_spam
+"Win a shopping spree worth $500! Enter now.",spam
+"Upgrade your home entertainment with our smart devices.",not_spam
+"Unlock the secret to a healthier lifestyle with our wellness tips.",not_spam
+"Get festival-ready with our boho-chic fashion line.",not_spam
+"Experience the magic of our virtual reality experience.",not_spam
+"Maximize your savings with our loyalty program.",not_spam
+"Transform your living space with our home makeover guide.",not_spam
+"Win a year's supply of your favorite products!",spam
+"Discover the art of self-expression with our art supplies.",not_spam
+"Stay stylish and comfortable with our athleisure collection.",not_spam
+"Elevate your home office setup with our tech essentials.",not_spam
+"Join our community and be part of the conversation.",not_spam
+"Shop now and enjoy free shipping on all orders.",not_spam
+"Create a personalized gift for your special someone.",not_spam
+"Enhance your gaming experience with our latest releases.",not_spam
+"Experience the joy of cooking with our gourmet recipes.",not_spam
+"Win exclusive backstage passes to your favorite concert!",spam
+"Stay connected with our latest tech gadgets and accessories.",not_spam
+"Upgrade your bedtime routine with our sleep essentials.",not_spam
+"Unlock the secret to glowing skin with our beauty regimen.",not_spam
+"Explore our eco-friendly and sustainable product line.",not_spam
+"Indulge in guilt-free treats with our healthy snack options.",not_spam
+"Transform your space with our DIY home decor kits.",not_spam
+"Unleash your creativity with our crafting masterclass.",not_spam
+"Discover the world of virtual fitness with our workout challenge.",not_spam
+"Level up your photography skills with our photography workshop.",not_spam
+"Experience the thrill of adventure with our travel guides.",not_spam
+"Stay cozy and stylish with our winter fashion essentials.",not_spam
+"Upgrade your tech game with our gaming accessories.",not_spam
+"Join our online book club for literary discussions.",not_spam
+"Elevate your dining experience with our gourmet dining tips.",not_spam
+"Unwind and relax with our spa day at home guide.",not_spam
+"Transform your backyard into a paradise with our outdoor living ideas.",not_spam
+"Upgrade your work-from-home setup with our ergonomic office solutions.",not_spam
+"Discover the flavors of the world with our international cuisine recipes.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Embark on a wellness journey with our mindfulness exercises.",not_spam
+"Level up your photography game with our photography challenge.",not_spam
+"Join our community of book lovers for literary discussions.",not_spam
+"Elevate your cocktail game with our mixology masterclass.",not_spam
+"Stay connected with loved ones through our virtual meetups.",not_spam
+"Experience the thrill of adventure with our travel essentials.",not_spam
+"Unleash your inner artist with our art supplies.",not_spam
+"Level up your photography game with our photography challenge.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Embark on a wellness journey with our mindfulness exercises.",not_spam
+"Upgrade your home office with our ergonomic office furniture.",not_spam
+"Discover the flavors of the world with our international cuisine recipes.",not_spam
+"Revamp your wardrobe with our trendy fashion picks.",not_spam
+"Indulge in luxury with our premium skincare collection.",not_spam
+"Win a shopping spree worth $500! Enter now.",spam
+"Upgrade your home entertainment with our smart devices.",not_spam
+"Unlock the secret to a healthier lifestyle with our wellness tips.",not_spam
+"Get festival-ready with our boho-chic fashion line.",not_spam
+"Experience the magic of our virtual reality experience.",not_spam
+"Maximize your savings with our loyalty program.",not_spam
+"Transform your living space with our home makeover guide.",not_spam
+"Win a year's supply of your favorite products!",spam
+"Discover the art of self-expression with our art supplies.",not_spam
+"Stay stylish and comfortable with our athleisure collection.",not_spam
+"Elevate your home office setup with our tech essentials.",not_spam
+"Join our community and be part of the conversation.",not_spam
+"Shop now and enjoy free shipping on all orders.",not_spam
+"Create a personalized gift for your special someone.",not_spam
+"Enhance your gaming experience with our latest releases.",not_spam
+"Experience the joy of cooking with our gourmet recipes.",not_spam
+"Win exclusive backstage passes to your favorite concert!",spam
+"Stay connected with our latest tech gadgets and accessories.",not_spam
+"Upgrade your bedtime routine with our sleep essentials.",not_spam
+"Unlock the secret to glowing skin with our beauty regimen.",not_spam
+"Explore our eco-friendly and sustainable product line.",not_spam
+"Indulge in guilt-free treats with our healthy snack options.",not_spam
+"Transform your space with our DIY home decor kits.",not_spam
+"Unleash your creativity with our crafting masterclass.",not_spam
+"Discover the world of virtual fitness with our workout challenge.",not_spam
+"Level up your photography skills with our photography workshop.",not_spam
+"Experience the thrill of adventure with our travel guides.",not_spam
+"Stay cozy and stylish with our winter fashion essentials.",not_spam
+"Upgrade your tech game with our gaming accessories.",not_spam
+"Join our online book club for literary discussions.",not_spam
+"Elevate your dining experience with our gourmet dining tips.",not_spam
+"Unwind and relax with our spa day at home guide.",not_spam
+"Transform your backyard into a paradise with our outdoor living ideas.",not_spam
+"Upgrade your work-from-home setup with our ergonomic office solutions.",not_spam
+"Discover the flavors of the world with our international cuisine recipes.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Embark on a wellness journey with our mindfulness exercises.",not_spam
+"Level up your photography game with our photography challenge.",not_spam
+"Join our community of book lovers for literary discussions.",not_spam
+"Elevate your cocktail game with our mixology masterclass.",not_spam
+"Stay connected with loved ones through our virtual meetups.",not_spam
+"Experience the thrill of adventure with our travel essentials.",not_spam
+"Unleash your inner artist with our art supplies.",not_spam
+"Level up your photography game with our photography challenge.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Embark on a wellness journey with our mindfulness exercises.",not_spam
+"Upgrade your home office with our ergonomic office furniture.",not_spam
+"Discover the flavors of the world with our international cuisine recipes.",not_spam
+"Unlock exclusive deals with our loyalty program.",not_spam
+"Win a dream vacation! Enter now.",spam
+"Upgrade to premium for unlimited benefits.",not_spam
+"Discover the magic of handmade crafts in our artisanal collection.",not_spam
+"Win big in our monthly giveaway!",spam
+"Create a personalized gift for your loved ones.",not_spam
+"Indulge in luxury with our premium skincare collection.",not_spam
+"Flash sale! Up to 60% off.",spam
+"Join our VIP club for exclusive perks and discounts.",not_spam
+"Experience the joy of giving with our gift guide.",not_spam
+"Claim your early access pass now!",spam
+"Transform your home with our home decor collection.",not_spam
+"Your opinion matters! Take our survey.",not_spam
+"Upgrade your tech game with our latest gadgets.",not_spam
+"Unlock the secrets of successful gardening with our gardening guide.",not_spam
+"Unlock the mystery box - limited quantities available!",spam
+"Stay connected with our latest tech gadgets and accessories.",not_spam
+"Experience the thrill of virtual reality with our VR headset.",not_spam
+"Double your savings with our special offer.",spam
+"Unwind and relax with our spa day essentials.",not_spam
+"Hurry, limited stock available!",spam
+"Whip up delicious meals with our chef-inspired recipes.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Check out our new products.",not_spam
+"Unlock a surprise gift on your next purchase.",spam
+"Stay cozy and stylish with our winter fashion collection.",not_spam
+"Get fit with our exclusive workout plans.",not_spam
+"Unleash your creativity with our DIY craft kits.",not_spam
+"Join our community for insider perks.",not_spam
+"Upgrade your outdoor adventures with our camping gear.",not_spam
+"Exclusive deal for today only.",not_spam
+"Maximize your savings with our bundle deals.",spam
+"Embark on a culinary journey with our recipe box.",not_spam
+"Revolutionize your skincare routine.",not_spam
+"Transform your space with our home organization solutions.",not_spam
+"Win a year's supply of your favorite products!",spam
+"Stay productive with our work-from-home essentials.",not_spam
+"Win exclusive backstage passes to your favorite concert!",spam
+"Discover the power of mindfulness with our meditation guide.",not_spam
+"Claim your reward now!",spam
+"Unveiling the secret menu - exclusive for members.",not_spam
+"Experience luxury with our premium collection.",not_spam
+"Upgrade your gaming setup with our gaming accessories.",not_spam
+"Special discount for loyal customers.",not_spam
+"Level up your photography skills with our masterclass.",not_spam
+"New arrivals in stock.",not_spam
+"Indulge in guilt-free treats with our healthy snacks.",not_spam
+"Win a shopping spree worth $500! Enter now.",spam
+"Upgrade your bedtime routine with our sleep essentials.",not_spam
+"Discover the flavors of the world with our international cuisine recipes.",not_spam
+"Unlock the secret to glowing skin with our beauty regimen.",not_spam
+"Exclusive offer! Buy one get one free!",spam
+"Shop now and save 20%.",not_spam
+"Your comfort, our priority - explore our bedding collection.",not_spam
+"New deals every day.",not_spam
+"Create memories with our customizable photo albums.",not_spam
+"Claim your discount now!",spam
+"Stay organized with our stylish planners and notebooks.",not_spam
+"Upgrade your morning with our coffee blends.",not_spam
+"New season has arrived.",not_spam
+"Get a free gift with every purchase.",spam
+"Buy now and get 40% off.",spam
+"Save 50% on all orders.",spam
+"Check out the hottest trends this season.",not_spam
+"Last chance to save 30%!",spam
+"New season is here.",not_spam
+"Unlock the secret to a healthier lifestyle with our wellness tips.",not_spam
+"Shop now and get 50% off.",spam
+"Save 20% on your first purchase.",not_spam
+"Transform your backyard into a paradise with our outdoor furniture.",not_spam
+"Win exclusive backstage passes to your favorite concert!",spam
+"Upgrade your work-from-home setup with our ergonomic office solutions.",not_spam
+"Unlock the secrets of successful gardening with our gardening guide.",not_spam
+"Win a year's supply of your favorite products!",spam
+"Stay connected with our latest tech gadgets and accessories.",not_spam
+"Experience the thrill of virtual reality with our VR headset.",not_spam
+"Double your savings with our special offer.",spam
+"Unwind and relax with our spa day essentials.",not_spam
+"Hurry, limited stock available!",spam
+"Whip up delicious meals with our chef-inspired recipes.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Check out our new products.",not_spam
+"Unlock a surprise gift on your next purchase.",spam
+"Stay cozy and stylish with our winter fashion collection.",not_spam
+"Get fit with our exclusive workout plans.",not_spam
+"Unleash your creativity with our DIY craft kits.",not_spam
+"Join our community for insider perks.",not_spam
+"Upgrade your outdoor adventures with our camping gear.",not_spam
+"Exclusive deal for today only.",not_spam
+"Maximize your savings with our bundle deals.",spam
+"Embark on a culinary journey with our recipe box.",not_spam
+"Revolutionize your skincare routine.",not_spam
+"Transform your space with our home organization solutions.",not_spam
+"Win a year's supply of your favorite products!",spam
+"Stay productive with our work-from-home essentials.",not_spam
+"Win exclusive backstage passes to your favorite concert!",spam
+"Discover the power of mindfulness with our meditation guide.",not_spam
+"Claim your reward now!",spam
+"Unveiling the secret menu - exclusive for members.",not_spam
+"Experience luxury with our premium collection.",not_spam
+"Upgrade your gaming setup with our gaming accessories.",not_spam
+"Special discount for loyal customers.",not_spam
+"Level up your photography skills with our masterclass.",not_spam
+"New arrivals in stock.",not_spam
+"Indulge in guilt-free treats with our healthy snacks.",not_spam
+"Win a shopping spree worth $500! Enter now.",spam
+"Upgrade your bedtime routine with our sleep essentials.",not_spam
+"Discover the flavors of the world with our international cuisine recipes.",not_spam
+"Unlock the secret to glowing skin with our beauty regimen.",not_spam
+"Exclusive offer! Buy one get one free!",spam
+"Shop now and save 20%.",not_spam
+"Your comfort, our priority - explore our bedding collection.",not_spam
+"New deals every day.",not_spam
+"Unlock exclusive deals with our loyalty program.",not_spam
+"Win a dream vacation! Enter now.",spam
+"Upgrade to premium for unlimited benefits.",not_spam
+"Discover the magic of handmade crafts in our artisanal collection.",not_spam
+"Win big in our monthly giveaway!",spam
+"Create a personalized gift for your loved ones.",not_spam
+"Indulge in luxury with our premium skincare collection.",not_spam
+"Flash sale! Up to 60% off.",spam
+"Join our VIP club for exclusive perks and discounts.",not_spam
+"Experience the joy of giving with our gift guide.",not_spam
+"Claim your early access pass now!",spam
+"Transform your home with our home decor collection.",not_spam
+"Your opinion matters! Take our survey.",not_spam
+"Upgrade your tech game with our latest gadgets.",not_spam
+"Unlock the secrets of successful gardening with our gardening guide.",not_spam
+"Unlock the mystery box - limited quantities available!",spam
+"Stay connected with our latest tech gadgets and accessories.",not_spam
+"Experience the thrill of virtual reality with our VR headset.",not_spam
+"Double your savings with our special offer.",spam
+"Unwind and relax with our spa day essentials.",not_spam
+"Hurry, limited stock available!",spam
+"Whip up delicious meals with our chef-inspired recipes.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Check out our new products.",not_spam
+"Unlock a surprise gift on your next purchase.",spam
+"Stay cozy and stylish with our winter fashion collection.",not_spam
+"Get fit with our exclusive workout plans.",not_spam
+"Unleash your creativity with our DIY craft kits.",not_spam
+"Join our community for insider perks.",not_spam
+"Upgrade your outdoor adventures with our camping gear.",not_spam
+"Exclusive deal for today only.",not_spam
+"Maximize your savings with our bundle deals.",spam
+"Embark on a culinary journey with our recipe box.",not_spam
+"Revolutionize your skincare routine.",not_spam
+"Transform your space with our home organization solutions.",not_spam
+"Win a year's supply of your favorite products!",spam
+"Stay productive with our work-from-home essentials.",not_spam
+"Win exclusive backstage passes to your favorite concert!",spam
+"Discover the power of mindfulness with our meditation guide.",not_spam
+"Claim your reward now!",spam
+"Unveiling the secret menu - exclusive for members.",not_spam
+"Experience luxury with our premium collection.",not_spam
+"Upgrade your gaming setup with our gaming accessories.",not_spam
+"Special discount for loyal customers.",not_spam
+"Level up your photography skills with our masterclass.",not_spam
+"New arrivals in stock.",not_spam
+"Indulge in guilt-free treats with our healthy snacks.",not_spam
+"Win a shopping spree worth $500! Enter now.",spam
+"Upgrade your bedtime routine with our sleep essentials.",not_spam
+"Discover the flavors of the world with our international cuisine recipes.",not_spam
+"Unlock the secret to glowing skin with our beauty regimen.",not_spam
+"Exclusive offer! Buy one get one free!",spam
+"Shop now and save 20%.",not_spam
+"Your comfort, our priority - explore our bedding collection.",not_spam
+"New deals every day.",not_spam
+"Create memories with our customizable photo albums.",not_spam
+"Claim your discount now!",spam
+"Stay organized with our stylish planners and notebooks.",not_spam
+"Upgrade your morning with our coffee blends.",not_spam
+"New season has arrived.",not_spam
+"Get a free gift with every purchase.",spam
+"Buy now and get 40% off.",spam
+"Save 50% on all orders.",spam
+"Check out the hottest trends this season.",not_spam
+"Last chance to save 30%!",spam
+"New season is here.",not_spam
+"Unlock the secret to a healthier lifestyle with our wellness tips.",not_spam
+"Shop now and get 50% off.",spam
+"Save 20% on your first purchase.",not_spam
+"Transform your backyard into a paradise with our outdoor furniture.",not_spam
+"Win exclusive backstage passes to your favorite concert!",spam
+"Upgrade your work-from-home setup with our ergonomic office solutions.",not_spam
+"Unlock the secrets of successful gardening with our gardening guide.",not_spam
+"Win a year's supply of your favorite products!",spam
+"Stay connected with our latest tech gadgets and accessories.",not_spam
+"Experience the thrill of virtual reality with our VR headset.",not_spam
+"Double your savings with our special offer.",spam
+"Unwind and relax with our spa day essentials.",not_spam
+"Hurry, limited stock available!",spam
+"Whip up delicious meals with our chef-inspired recipes.",not_spam
+"Create a cozy retreat with our home fragrance collection.",not_spam
+"Check out our new products.",not_spam
+"Unlock a surprise gift on your next purchase.",spam
+"Stay cozy and stylish with our winter fashion collection.",not_spam
+"Get fit with our exclusive workout plans.",not_spam
+"Unleash your creativity with our DIY craft kits.",not_spam
+"Join our community for insider perks.",not_spam
+"Upgrade your outdoor adventures with our camping gear.",not_spam
+"Exclusive deal for today only.",not_spam
+"Maximize your savings with our bundle deals.",spam
+"Embark on a culinary journey with our recipe box.",not_spam
+"Revolutionize your skincare routine.",not_spam
+"Transform your space with our home organization solutions.",not_spam
+"Win a year's supply of your favorite products!",spam
+"Stay productive with our work-from-home essentials.",not_spam
+"Win exclusive backstage passes to your favorite concert!",spam
+"Discover the power of mindfulness with our meditation guide.",not_spam
+"Claim your reward now!",spam
+"Unveiling the secret menu - exclusive for members.",not_spam
+"Experience luxury with our premium collection.",not_spam
+"Upgrade your gaming setup with our gaming accessories.",not_spam
+"Special discount for loyal customers.",not_spam
+"Level up your photography skills with our masterclass.",not_spam
+"New arrivals in stock.",not_spam
+"Indulge in guilt-free treats with our healthy snacks.",not_spam
+
